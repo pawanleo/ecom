@@ -1,0 +1,43 @@
+.flex-container{
+    display: flex;
+    margin-top: 40px;
+}
+.flex-box-1{
+    flex: 50%;
+text-align: center;
+}
+.flex-box-2{
+    flex: 50%;
+}
+.price{
+    margin-top: 60px;
+    font-size: x-large;
+}
+.price:hover{
+    
+    color: blue;
+}
+.productdetails{
+    padding: 30px 0px;
+    margin: 20px 20px 20px 0px;
+    border-bottom: 1px solid #e1e1e1;
+    border-top: 1px solid #e1e1e1;
+   
+}
+.desc{
+    font-size: larger;
+    margin-bottom: 50px;
+}
+.addToCart{
+    padding: 20px 40px;
+    background-color: orange;
+    color: white;
+  
+    border: none;
+}
+
+.buttons{
+    font-size: 17px;
+    display: flex;
+    justify-content: space-around;
+}

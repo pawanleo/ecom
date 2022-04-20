@@ -1,0 +1,38 @@
+
+.placeorder{
+    display: flex;
+    
+}
+.quantity{
+    background-color: orange;
+    color: white;
+  font-size: 25px;
+    border: none;
+}
+.quantity-button{
+    padding: 20px 40px;
+    background-color: orange;
+    color: white;
+}
+.cart-list{
+    display: flex;
+}
+.list{
+    text-decoration: none;
+    margin: 50px 50px;
+}
+.cart-details{
+    margin-left: 40px;
+}
+.order-btn{
+    text-align: center;
+}
+.placeorder{
+    padding: 20px 40px;
+    background-color: orange;
+    color: white;
+ margin-left: 50px;
+ text-align: center;
+
+    border: none;
+}
